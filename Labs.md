@@ -118,7 +118,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
-1. Mielnikowski, Łukasz
+1. Mielnikowski, Łukasz [Zadania 1, 2](https://github.com/Whetold/RubyStuff)
 1. Mroczek, Przemysław. [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
